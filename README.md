@@ -1,1 +1,1 @@
-Add Amazon Sagemaker Docs integrations page (#7293)
+Add OpenVINO Latency vs Throughput modes Docs page (#9001)
