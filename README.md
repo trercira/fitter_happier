@@ -1,1 +1,1 @@
-Add brain-tumor dataset docs page (#9041)
+Improve Coral Edge TPU guide (#8160)
