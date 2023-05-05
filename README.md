@@ -1,1 +1,1 @@
-Mkdocs annotations fixes (#7600)
+Pass callbacks to validator (#7320)
