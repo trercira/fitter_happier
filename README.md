@@ -1,1 +1,1 @@
-Update CI.md with CI links (#8786)
+New test for labels and crops (#8861)
