@@ -1,1 +1,1 @@
-Update Discord and Contributing Guide URLs (#9270)
+ultralytics 8.1.11 expand OpenVINO INT8 ops for improved mAP (#7516)
