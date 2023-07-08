@@ -1,1 +1,1 @@
-ultralytics 8.0.236 dataset semantic & SQL search API (#7136)
+Fix tfjs exports for ARM64 Dockerfile (#8766)
