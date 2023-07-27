@@ -1,1 +1,1 @@
-fix yolo classify model loading error (#9196)
+Add Weights & Biases Docs integrations page (#7199)
