@@ -1,1 +1,1 @@
-Fix docker.yaml double-quote version bug (#7452)
+Update fraction arg to employ a random selection (#8234)
