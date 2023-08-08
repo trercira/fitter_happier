@@ -1,1 +1,1 @@
-ultralytics 8.1.3 ResNet models and lighter dependencies (#7700)
+Pin jax and jaxlib to fix tensorflowjs exports (#6988)
