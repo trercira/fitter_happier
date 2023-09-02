@@ -1,1 +1,1 @@
-Add TorchScript Docs Integrations Page (#8501)
+Update CI.md with CI links (#8786)
