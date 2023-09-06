@@ -1,1 +1,1 @@
-Add simple-utilities.md Docs page (#8269)
+Cleanup Docs languages (#7865)
