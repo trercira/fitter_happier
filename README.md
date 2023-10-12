@@ -1,1 +1,1 @@
-Add new YOLOv8 OBB model metrics (#7379)
+Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
