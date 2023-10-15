@@ -1,1 +1,1 @@
-Add NCNN Docs Integrations Page (#8562)
+Fixed RTDETR GFLOPs bug (#7309)
