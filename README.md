@@ -1,1 +1,1 @@
-ultralytics 8.0.224 Counting and Heatmaps updates (#6855)
+TensorRT FP16 export with dynamic=True (#7870)
