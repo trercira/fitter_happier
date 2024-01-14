@@ -1,1 +1,1 @@
-Merge pull request #22 from SkalskiP/patch-1
+Add dota8.yaml and O tests (#7394)
