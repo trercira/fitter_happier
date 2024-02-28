@@ -1,1 +1,1 @@
-Clean up unused imgsz (#7771)
+Clarify triton server boolean value (#8532)
