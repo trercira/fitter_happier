@@ -1,1 +1,1 @@
-Fixed RTDETR GFLOPs bug (#7309)
+Add simple-utilities.md Docs page (#8269)
