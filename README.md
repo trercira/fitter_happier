@@ -1,1 +1,1 @@
-Fix docker.yaml double-quote version bug (#7452)
+Fix cmake requirements for ARM64 (#8589)
