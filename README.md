@@ -1,1 +1,1 @@
-Explorer Cleanup (#7364)
+Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
