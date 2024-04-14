@@ -1,1 +1,1 @@
-Add CoreML Docs Integrations Page (#8063)
+Batch inference fixes (#8854)
