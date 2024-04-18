@@ -1,1 +1,1 @@
-Add YOLOv8-OBB https://youtu.be/Z7Z9pHF8wJc (#7780)
+Add polygon regions drawing support in object-counting.md and minor docs update (#8885)
