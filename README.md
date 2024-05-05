@@ -1,1 +1,1 @@
-Batch inference fixes (#8854)
+ultralytics 8.0.233 improve Classify train augmentations (#4546)
