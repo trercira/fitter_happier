@@ -1,1 +1,1 @@
-Update fraction arg to employ a random selection (#8234)
+Add PR Summary step to Ultralytics Actions (#7675)
