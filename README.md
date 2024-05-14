@@ -1,1 +1,1 @@
-New test for labels and crops (#8861)
+Update fraction arg to employ a random selection (#8234)
