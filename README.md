@@ -1,1 +1,1 @@
-Elaborate Train and Predict mode docs arguments (#8137)
+ultralytics 8.1.21 Add YOLOv8-World-v2 models (#8580)
