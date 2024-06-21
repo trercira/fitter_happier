@@ -1,1 +1,1 @@
-ultralytics 8.0.227 respect defaults.yaml data (#6935)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
