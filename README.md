@@ -1,1 +1,1 @@
-Add https://youtu.be/rCggzXRRSRo to Speed Estimation Docs (#8577)
+Add object blurring & object cropping modules in Ultralytics docs (#7434)
