@@ -1,1 +1,1 @@
-added badges (#45)
+Capitalize OBB acronym (#7383)
