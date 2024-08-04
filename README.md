@@ -1,1 +1,1 @@
-Add CoreML Docs Integrations Page (#8063)
+Python refactorings and simplifications (#7549)
