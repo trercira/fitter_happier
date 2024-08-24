@@ -1,1 +1,1 @@
-Use pathlib in DOTA ops (#7552)
+Add polygon regions drawing support in object-counting.md and minor docs update (#8885)
