@@ -1,1 +1,1 @@
-ultralytics 8.1.5 add OBB Tracking support (#7731)
+Fix tfjs exports for ARM64 Dockerfile (#8766)
