@@ -1,1 +1,1 @@
-Improve Coral Edge TPU guide (#8160)
+Update YOLOv3 and YOLOv5 YAMLs (#7574)
