@@ -1,1 +1,1 @@
-Hold failed upload metrics and upload with next upload metrics (#8513)
+Explorer with LanceDB, Actions and Docs updates (#7487)
