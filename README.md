@@ -1,1 +1,1 @@
-ultralytics 8.1.26 LoadImagesAndVideos batched inference (#8817)
+Adds toggle displaying labels in GUI and verbose log on start (#7804)
