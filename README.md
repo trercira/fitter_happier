@@ -1,1 +1,1 @@
-ultralytics 8.1.26 LoadImagesAndVideos batched inference (#8817)
+ultralytics 8.0.230 TensorRT export hang fix (#7180)
